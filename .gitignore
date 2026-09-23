@@ -35,3 +35,6 @@ desktop.ini
 
 # Generator script (not needed for submission)
 generate_report.py
+
+# Generator Dashboard (not needed for submission)
+generate_dashboard.py
