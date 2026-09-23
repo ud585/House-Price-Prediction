@@ -96,7 +96,6 @@ House-Price-Prediction/
 ├── house_price.csv                          # Dataset (50,000 rows, 19 columns)
 ├── house_price_prediction.py                # Main Python script (full ML workflow)
 ├── requirements.txt                         # Python dependencies
-├── README.md                                # This file
 ├── House_Price_Prediction_Project_Report.pdf
 │
 ├── model/
@@ -118,8 +117,10 @@ House-Price-Prediction/
 │   ├── residual_analysis.png
 │   └── model_comparison.png
 │
-└── screenshots/
-    └── Dashboard_or_Project_Result.png      ← Project dashboard image (1600×1040 px)
+│── screenshots/
+│    └── Dashboard_or_Project_Result.png      ← Project dashboard image (1600×1040 px)
+│
+├── README.md                                # This file
 ```
 
 ---
