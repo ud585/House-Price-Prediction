@@ -354,6 +354,3 @@ House Price Prediction Using Machine Learning
 GitHub: [House-Price-Prediction](https://github.com/ud585/House-Price-Prediction)
 
 ---
-"# House-Price-Prediction" 
-"# House-Price-Prediction" 
-"# House-Price-Prediction" 
